@@ -39,9 +39,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Project 1 Name](repo-link)** | One-line description of what it does and the problem it solves | Java, MySQL |
-| **[Project 2 Name](repo-link)** | One-line description | Python, Pandas |
-| **[Project 3 Name](repo-link)** | One-line description | Java, SQL |
+| **[Contact Management System](https://github.com/Yashjuly/Shadowfox_Project)** | Console-based Java app to add, view, update, and delete contacts using ArrayList | Java, OOP |
+| **[Enhanced Console Calculator](https://github.com/Yashjuly/Shadowfox_Project)** | Java calculator handling arithmetic operations with control-flow logic | Java |
+
 
 ---
 
