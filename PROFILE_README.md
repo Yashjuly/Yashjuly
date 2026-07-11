@@ -11,11 +11,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[Project Name]** — a short one-liner about what it does
+- 🔭 Currently working on **Java Employement portal** — a short one-liner about what it does
 - 🌱 Currently learning **DevOps tools (Docker, CI/CD, Git workflows)**
 - 💡 Interested in backend engineering, databases, and data analysis
-- 📫 Reach me at: **your.email@example.com**
-- 🌐 Portfolio / LinkedIn: **[link]**
+- 📫 Reach me at: **yashtalekarb@gmail.com**
+- 🌐 Portfolio / LinkedIn: **https://www.linkedin.com/in/yash-talekar-535809218**
 
 ---
 
